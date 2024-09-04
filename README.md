@@ -38,6 +38,8 @@ AWS Lambda **lets you run code without provisioning or managing servers**. You p
 
 
 ![[chipping1.png]]
+![chipping1](https://github.com/user-attachments/assets/ddfe8e62-749c-4f89-a2d3-bf95da04673d)
+
 
 **Detection Lambda function**: This is triggered by a new image being put into the imagery S3 bucket. Each new object entry is pushed to Amazon Simple Queue Service (_Amazon SQS_) queue.
 
