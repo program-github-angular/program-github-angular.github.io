@@ -8,8 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            //"file": "/Users/ashwiniwakchaure/HomeStudyStuff/testNewApp/index.html",
-            "file":"C:\\WorkData\\ashwinidata\\appdevelop\\program-github-angular.github.io\\index.html"
+            "file": "C:\\WorkData\\ashwinidata\\appdevelop\\program-github-angular.github.io\\index.html"
         }
     ]
 }
