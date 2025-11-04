@@ -1,4 +1,4 @@
-The website shows a demo web gis app made using ArcGIS Maps SDK for JavaScript version 4.30, and is set in a Bootstrap template.
+The website shows a demo web gis app made using ArcGIS Maps SDK for JavaScript version 4.30, and is set in a Bootstrap template. 
 
 **Notes on GN Tasks**
 - Develop a web mapping app with AWS integration and basic AI functionality
